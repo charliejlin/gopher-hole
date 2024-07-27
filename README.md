@@ -1,6 +1,13 @@
 # Gopher Hole
 
-A full stack web application that utilizes React.js, Next.js, Golang, PostgreSQL, and AWS S3.
+A full stack web application that utilizes:
+
+- Typescript
+- React.js
+- Next.js
+- Golang
+- PostgreSQL
+- AWS S3
 
 ## Description
 
