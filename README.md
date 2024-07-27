@@ -1,41 +1,26 @@
 # Project Title
 
-Simple overview of use/purpose.
+A full stack web application that utilizes React.js, Next.js, Golang, PostgreSQL, and AWS S3.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This project aims to provide a cloud-based file hosting service that allows one to upload and retrieve images and videos. Similarly to application like Google Drive or Dropbox, this app features the ability to manage user media with a focus on easily accessing media links.
+Building this project was my way to further my skills in full stack development, specifically familizarizing myself with using Golang.
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+- TBD
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+- TBD
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+- TBD
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+- TBD
